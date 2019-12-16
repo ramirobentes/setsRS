@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 255
+rows: 297
 cols: 37
 columns:
   slugSeason: character
