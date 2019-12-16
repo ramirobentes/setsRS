@@ -6,7 +6,7 @@
   type: table
 - path: games-2
   name: games-2
-  rows: 255
+  rows: 297
   cols: 37
   description: NBA stats 12-16-2019
   type: table
