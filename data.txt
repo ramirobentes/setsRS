@@ -1,0 +1,6 @@
+- path: game-logs-player
+  name: game-logs-player
+  rows: 8350
+  cols: 37
+  description: NBA stats 12-16-2019
+  type: table
