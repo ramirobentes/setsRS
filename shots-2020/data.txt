@@ -1,0 +1,35 @@
+path:
+- data.csv
+- data.rds
+rows: 75334
+cols: 27
+columns:
+  slugSeason: character
+  idTeam: numeric
+  idPlayer: numeric
+  typeGrid: character
+  namePlayer: character
+  nameTeam: character
+  typeEvent: character
+  typeAction: character
+  typeShot: character
+  dateGame: character
+  slugTeamHome: character
+  slugTeamAway: character
+  idGame: numeric
+  idEvent: numeric
+  numberPeriod: numeric
+  minutesRemaining: numeric
+  yearSeason: numeric
+  zoneBasic: character
+  nameZone: character
+  slugZone: character
+  zoneRange: character
+  locationX: numeric
+  locationY: numeric
+  secondsRemaining: numeric
+  distanceShot: numeric
+  isShotAttempted: logical
+  isShotMade: logical
+description: NBA shots 2020
+type: table
