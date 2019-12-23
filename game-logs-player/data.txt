@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 8350
+rows: 9395
 cols: 37
 columns:
   slugSeason: character
@@ -41,5 +41,5 @@ columns:
   heightInches: numeric
   weightLBS: numeric
   heightFeet: numeric
-description: NBA stats 12-16-2019
+description: NBA game stats 2020
 type: table
