@@ -1,0 +1,6 @@
+- path: game-logs-player
+  name: game-logs-player
+  rows: 9395
+  cols: 37
+  description: NBA game stats 2020
+  type: table
