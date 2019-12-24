@@ -40,3 +40,9 @@
   cols: 31
   description: NBA player stats 2020
   type: table
+- path: players-juntos
+  name: players-juntos
+  rows: 468
+  cols: 34
+  description: Players NBA
+  type: table
