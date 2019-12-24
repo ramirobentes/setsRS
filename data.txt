@@ -28,3 +28,9 @@
   cols: 31
   description: NBA game stats 2020
   type: table
+- path: all-players
+  name: all-players
+  rows: 468
+  cols: 34
+  description: Players NBA
+  type: table
