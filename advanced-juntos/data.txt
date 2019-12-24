@@ -1,0 +1,38 @@
+path:
+- data.csv
+- data.rds
+rows: 908
+cols: 30
+columns:
+  typeResult: character
+  idGame: numeric
+  slugTeam: character
+  idTeam: numeric
+  pctAST: numeric
+  pctOREB: numeric
+  pctDREB: numeric
+  pctTREB: numeric
+  pctTOVE: numeric
+  pctTOVTeam: numeric
+  pctEFG: numeric
+  pctTS: numeric
+  pctUSG: numeric
+  pctUSGE: numeric
+  teamName: character
+  cityTeam: character
+  minExact: numeric
+  ortgE: numeric
+  ortg: numeric
+  drtgE: numeric
+  drtg: numeric
+  netrtgE: numeric
+  netrtg: numeric
+  ratioASTtoTOV: numeric
+  ratioAST: numeric
+  paceE: numeric
+  pace: numeric
+  PACE_PER40: numeric
+  possessions: numeric
+  ratioPIE: numeric
+description: Advanced teams 2020
+type: table
