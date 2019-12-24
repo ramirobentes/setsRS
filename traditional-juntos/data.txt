@@ -2,54 +2,36 @@ path:
 - data.csv
 - data.rds
 rows: 908
-cols: 47
+cols: 29
 columns:
-  typeSeason: character
-  yearSeason: numeric
-  slugSeason: character
-  idTeam: numeric
-  slugMatchup: character
+  typeResult: character
   idGame: numeric
-  outcomeGame: character
-  locationGame: character
   slugTeam: character
-  slugOpponent: character
-  slugTeamWinner: character
-  slugTeamLoser: character
-  dateGame: Date
-  numberGameTeamSeason: numeric
-  hasVideo: logical
-  slugLeague: character
-  nameTeam: character
-  isB2B: logical
-  isB2BFirst: logical
-  isB2BSecond: logical
-  countDaysRestTeam: numeric
-  countDaysNextGameTeam: numeric
-  isWin: logical
-  fgmTeam: numeric
-  fgaTeam: numeric
-  pctFGTeam: numeric
-  fg3mTeam: numeric
-  fg3aTeam: numeric
-  pctFG3Team: numeric
-  pctFTTeam: numeric
-  fg2mTeam: numeric
-  fg2aTeam: numeric
-  pctFG2Team: numeric
-  minutesTeam: numeric
-  ftmTeam: numeric
-  ftaTeam: numeric
-  orebTeam: numeric
-  drebTeam: numeric
-  trebTeam: numeric
-  astTeam: numeric
-  stlTeam: numeric
-  blkTeam: numeric
-  tovTeam: numeric
-  pfTeam: numeric
-  ptsTeam: numeric
-  plusminusTeam: numeric
-  urlTeamSeasonLogo: character
+  idTeam: numeric
+  fgm: numeric
+  fga: numeric
+  pctFG: numeric
+  fg3m: numeric
+  fg3a: numeric
+  pctFG3: numeric
+  pctFT: numeric
+  fg2m: numeric
+  fg2a: numeric
+  pctFG2: numeric
+  teamName: character
+  cityTeam: character
+  minExact: numeric
+  ftm: numeric
+  fta: numeric
+  oreb: numeric
+  dreb: numeric
+  treb: numeric
+  ast: numeric
+  stl: numeric
+  blk: numeric
+  tov: numeric
+  pf: numeric
+  pts: numeric
+  plusminus: numeric
 description: Team traditionals 2020
 type: table
