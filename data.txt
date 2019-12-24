@@ -4,3 +4,9 @@
   cols: 29
   description: Team traditionals 2020
   type: table
+- path: advanced-juntos
+  name: advanced-juntos
+  rows: 908
+  cols: 30
+  description: Advanced teams 2020
+  type: table
