@@ -16,3 +16,9 @@
   cols: 30
   description: Advanced teams 2020
   type: table
+- path: dataGameLogsTeam
+  name: dataGameLogsTeam
+  rows: 908
+  cols: 47
+  description: Team stats games 2020
+  type: table
