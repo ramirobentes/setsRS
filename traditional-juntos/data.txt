@@ -1,0 +1,55 @@
+path:
+- data.csv
+- data.rds
+rows: 908
+cols: 47
+columns:
+  typeSeason: character
+  yearSeason: numeric
+  slugSeason: character
+  idTeam: numeric
+  slugMatchup: character
+  idGame: numeric
+  outcomeGame: character
+  locationGame: character
+  slugTeam: character
+  slugOpponent: character
+  slugTeamWinner: character
+  slugTeamLoser: character
+  dateGame: Date
+  numberGameTeamSeason: numeric
+  hasVideo: logical
+  slugLeague: character
+  nameTeam: character
+  isB2B: logical
+  isB2BFirst: logical
+  isB2BSecond: logical
+  countDaysRestTeam: numeric
+  countDaysNextGameTeam: numeric
+  isWin: logical
+  fgmTeam: numeric
+  fgaTeam: numeric
+  pctFGTeam: numeric
+  fg3mTeam: numeric
+  fg3aTeam: numeric
+  pctFG3Team: numeric
+  pctFTTeam: numeric
+  fg2mTeam: numeric
+  fg2aTeam: numeric
+  pctFG2Team: numeric
+  minutesTeam: numeric
+  ftmTeam: numeric
+  ftaTeam: numeric
+  orebTeam: numeric
+  drebTeam: numeric
+  trebTeam: numeric
+  astTeam: numeric
+  stlTeam: numeric
+  blkTeam: numeric
+  tovTeam: numeric
+  pfTeam: numeric
+  ptsTeam: numeric
+  plusminusTeam: numeric
+  urlTeamSeasonLogo: character
+description: Team traditionals 2020
+type: table
