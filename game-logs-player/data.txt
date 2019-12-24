@@ -1,8 +1,8 @@
 path:
 - data.csv
 - data.rds
-rows: 9395
-cols: 37
+rows: 9623
+cols: 38
 columns:
   slugSeason: character
   numberGameTeamSeason: integer
@@ -34,6 +34,7 @@ columns:
   pf: numeric
   plusminus: numeric
   dateBirth: Date
+  countSeasonsPlayed: numeric
   yearDraft: numeric
   numberRound: numeric
   numberOverallPick: numeric
