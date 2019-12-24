@@ -12,7 +12,7 @@
   type: table
 - path: avancado2
   name: avancado2
-  rows: 886
+  rows: 908
   cols: 30
   description: Advanced teams 2020
   type: table
