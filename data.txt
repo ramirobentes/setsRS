@@ -22,3 +22,9 @@
   cols: 47
   description: Team stats games 2020
   type: table
+- path: dataBoxScorePlayerNBA
+  name: dataBoxScorePlayerNBA
+  rows: 9623
+  cols: 31
+  description: NBA game stats 2020
+  type: table
