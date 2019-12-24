@@ -1,0 +1,39 @@
+path:
+- data.csv
+- data.rds
+rows: 9623
+cols: 31
+columns:
+  idGame: numeric
+  slugTeam: character
+  namePlayer: character
+  groupStartPosition: character
+  isStarter: logical
+  idTeam: numeric
+  idPlayer: numeric
+  fgm: numeric
+  fga: numeric
+  pctFG: numeric
+  fg3m: numeric
+  fg3a: numeric
+  pctFG3: numeric
+  pctFT: numeric
+  fg2m: numeric
+  fg2a: numeric
+  pctFG2: numeric
+  cityTeam: character
+  minExact: numeric
+  ftm: numeric
+  fta: numeric
+  oreb: numeric
+  dreb: numeric
+  treb: numeric
+  ast: numeric
+  stl: numeric
+  blk: numeric
+  tov: numeric
+  pf: numeric
+  pts: numeric
+  plusminus: numeric
+description: NBA game stats 2020
+type: table
