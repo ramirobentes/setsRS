@@ -16,3 +16,9 @@
   cols: 33
   description: Jogos 20
   type: table
+- path: box-juntos
+  name: box-juntos
+  rows: 9623
+  cols: 31
+  description: NBA player stats 2020
+  type: table
