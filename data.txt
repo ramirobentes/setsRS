@@ -10,3 +10,9 @@
   cols: 30
   description: Advanced teams 2020
   type: table
+- path: jogos
+  name: jogos
+  rows: 1309
+  cols: 33
+  description: Jogos 20
+  type: table
