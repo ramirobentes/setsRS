@@ -1,0 +1,41 @@
+path:
+- data.csv
+- data.rds
+rows: 1309
+cols: 33
+columns:
+  idSeasonType: integer
+  dateGame: Date
+  timeEasternGame: character
+  idGame: numeric
+  yearSeason: numeric
+  slugTeamAway: character
+  slugTeamHome: character
+  slugGame: character
+  idStageGame: integer
+  slugTeams: character
+  idGameStatus: integer
+  hasExtendedStatus: integer
+  isUnknownStartTime: logical
+  datetimeGame: POSIXct
+  dateSlugGame: character
+  hasBuzzerBeater: logical
+  urlNBAGameBook: character
+  quarterMaxPlayed: integer
+  maxQuartersRegular: integer
+  hasOvertime: logical
+  countOTQuarters: integer
+  isComplete: logical
+  idTeamHome: numeric
+  nameTeamHome: character
+  scoreHome: numeric
+  isWinnerHome: numeric
+  isLoserHome: numeric
+  idTeamAway: numeric
+  nameTeamAway: character
+  scoreAway: numeric
+  isWinnerAway: numeric
+  isLoserAway: numeric
+  descriptionGame: logical
+description: Jogos 20
+type: table
