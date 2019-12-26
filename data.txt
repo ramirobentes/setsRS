@@ -34,3 +34,9 @@
   cols: 34
   description: Players NBA
   type: table
+- path: misc-juntos
+  name: misc-juntos
+  rows: 918
+  cols: 18
+  description: Misc teams NBA
+  type: table
