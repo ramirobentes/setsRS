@@ -1,0 +1,26 @@
+path:
+- data.csv
+- data.rds
+rows: 918
+cols: 18
+columns:
+  idGame: numeric
+  slugTeam: character
+  idTeam: numeric
+  teamName: character
+  cityTeam: character
+  minExact: numeric
+  ptsOffTOV: numeric
+  ptsSecondChance: numeric
+  ptsFastBreak: numeric
+  ptsPaint: numeric
+  ptsOffTOVOpponent: numeric
+  ptsSecondChanceOpponent: numeric
+  ptsFastBreakOpponent: numeric
+  ptsPaintOpponent: numeric
+  blk: numeric
+  blka: numeric
+  pf: numeric
+  pfd: numeric
+description: Misc teams NBA
+type: table
