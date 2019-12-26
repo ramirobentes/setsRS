@@ -1,6 +1,6 @@
 - path: traditional-juntos
   name: traditional-juntos
-  rows: 908
+  rows: 918
   cols: 29
   description: Team traditionals 2020
   type: table
