@@ -22,3 +22,9 @@
   cols: 31
   description: NBA player stats 2020
   type: table
+- path: shots-2020
+  name: shots-2020
+  rows: 81639
+  cols: 27
+  description: NBA shots 2020
+  type: table
