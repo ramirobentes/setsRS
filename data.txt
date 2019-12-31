@@ -40,3 +40,9 @@
   cols: 18
   description: Misc teams NBA
   type: table
+- path: advanced-player-juntos
+  name: advanced-player-juntos
+  rows: 10527
+  cols: 32
+  description: Advanced players 2020
+  type: table
