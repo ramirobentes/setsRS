@@ -1,0 +1,27 @@
+path:
+- data.csv
+- data.rds
+rows: 10774
+cols: 19
+columns:
+  typeResult: character
+  idGame: numeric
+  namePlayer: character
+  fgContested: numeric
+  fg2Contested: numeric
+  fg3Contested: numeric
+  boxOutsPlayerTeamRebound: character
+  screenAssist: numeric
+  ptsScreenAssist: numeric
+  pts: numeric
+  deflections: numeric
+  chargesDrawn: numeric
+  looseBallsRecoveredOffense: numeric
+  looseBallsRecoveredDefense: numeric
+  looseBallsRecovered: numeric
+  boxOutsOffense: numeric
+  boxOutsDefense: numeric
+  boxOutsPlayerTREB: numeric
+  boxOuts: numeric
+description: Hustle players 2020
+type: table
