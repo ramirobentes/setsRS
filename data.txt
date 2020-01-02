@@ -46,3 +46,9 @@
   cols: 32
   description: Advanced players 2020
   type: table
+- path: hustle-player-juntos
+  name: hustle-player-juntos
+  rows: 10774
+  cols: 19
+  description: Hustle players 2020
+  type: table
