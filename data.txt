@@ -30,8 +30,8 @@
   type: table
 - path: players-juntos
   name: players-juntos
-  rows: 471
-  cols: 34
+  rows: 484
+  cols: 35
   description: Players NBA
   type: table
 - path: misc-juntos
