@@ -24,7 +24,7 @@
   type: table
 - path: shots-2020
   name: shots-2020
-  rows: 82716
+  rows: 91770
   cols: 27
   description: NBA shots 2020
   type: table
