@@ -1,0 +1,29 @@
+path:
+- data.csv
+- data.rds
+rows: 12945
+cols: 21
+columns:
+  idGame: numeric
+  namePlayer: character
+  passes: numeric
+  fgmContested: numeric
+  fgaContested: numeric
+  pctFGContested: numeric
+  fgmUncontested: numeric
+  fgaUncontested: numeric
+  pctFGUncontested: numeric
+  fgmRimDefended: numeric
+  fgaRimDefended: numeric
+  pctFGRimDefended: numeric
+  distMiles: numeric
+  mphMean: numeric
+  orebChances: numeric
+  drebChances: numeric
+  trebChances: numeric
+  touches: numeric
+  astSecondary: numeric
+  ftAST: numeric
+  ast: numeric
+description: Tracking players 2020
+type: table
