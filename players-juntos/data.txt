@@ -1,8 +1,8 @@
 path:
 - data.csv
 - data.rds
-rows: 471
-cols: 34
+rows: 484
+cols: 35
 columns:
   idPlayer: numeric
   namePlayer: character
@@ -27,6 +27,7 @@ columns:
   pts: numeric
   ast: numeric
   treb: numeric
+  countAllStarGames: numeric
   ratioPIE: numeric
   urlNBAAPI: character
   nameFirst: character
