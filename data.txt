@@ -18,7 +18,7 @@
   type: table
 - path: box-juntos
   name: box-juntos
-  rows: 10957
+  rows: 11077
   cols: 31
   description: NBA player stats 2020
   type: table
