@@ -58,3 +58,9 @@
   cols: 21
   description: Tracking players 2020
   type: table
+- path: defense-juntos
+  name: defense-juntos
+  rows: 11526
+  cols: 18
+  description: Defense player NBA
+  type: table
