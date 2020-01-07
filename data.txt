@@ -42,7 +42,7 @@
   type: table
 - path: advanced-player-juntos
   name: advanced-player-juntos
-  rows: 1094
+  rows: 11613
   cols: 32
   description: Advanced players 2020
   type: table
