@@ -1,0 +1,26 @@
+path:
+- data.csv
+- data.rds
+rows: 11526
+cols: 18
+columns:
+  typeResult: character
+  idGame: numeric
+  namePlayer: character
+  teamName: character
+  PARTIAL_POSS: numeric
+  SWITCHES_ON: numeric
+  ptsPlayerAllowed: numeric
+  dreb: numeric
+  MATCHUP_AST: numeric
+  MATCHUP_TOV: numeric
+  stl: numeric
+  blk: numeric
+  MATCHUP_FGM: numeric
+  MATCHUP_FGA: numeric
+  MATCHUP_FG_PCT: numeric
+  MATCHUP_FG3M: numeric
+  MATCHUP_FG3A: numeric
+  MATCHUP_FG3_PCT: numeric
+description: Defense player NBA
+type: table
