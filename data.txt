@@ -54,7 +54,7 @@
   type: table
 - path: tracking-player-juntos
   name: tracking-player-juntos
-  rows: 12945
+  rows: 13870
   cols: 21
   description: Tracking players 2020
   type: table
