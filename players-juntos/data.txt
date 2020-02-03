@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 485
+rows: 499
 cols: 34
 columns:
   idPlayer: numeric
