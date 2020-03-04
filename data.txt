@@ -6,7 +6,7 @@
   type: table
 - path: advanced-juntos
   name: advanced-juntos
-  rows: 1636
+  rows: 1830
   cols: 30
   description: Advanced teams 2020
   type: table
