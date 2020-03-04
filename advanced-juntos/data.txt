@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 1636
+rows: 1830
 cols: 30
 columns:
   typeResult: character
@@ -31,7 +31,7 @@ columns:
   ratioAST: numeric
   paceE: numeric
   pace: numeric
-  PACE_PER40: numeric
+  pacePer40PACE_PER40: numeric
   possessions: numeric
   ratioPIE: numeric
 description: Advanced teams 2020
